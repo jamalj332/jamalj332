@@ -8,6 +8,8 @@ Hi, I'm Jamal, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺<
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jamalj332/osTicket-Ticket-Lifestyle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamalj332/configure-ad)
+ - <b>Setting Up Virtual Private Network(VPN)</b>
+  - [Virtual Private Network (VPN) ProtoVPN](https://github.com/jamalj332/installing_a_vpn)
  - <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jamalj332/AzureVM-NW-Protocols)
 
