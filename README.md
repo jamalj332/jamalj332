@@ -5,7 +5,7 @@ Hi, I'm Jamal, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺<
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jamalj332/osTicket-pre-req)
   - [osTicket: Post-Installation Configuration](https://github.com/jamalj332/OSticket-post-install)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jamalj332/osTicket-Ticket-Lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jamalj332/osTicket-Ticket-Lifestyle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamalj332/configure-ad)
  - <b>Network Security Groups</b>
